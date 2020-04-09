@@ -1,0 +1,11 @@
+<section class="row">
+  <article class="column">
+    <h3>Response from server</h3>
+    <div id="msg-container">
+
+    </div>
+    <input type="text" id="senderInput" placeholder="Enter your name here...">
+    <textarea id="msg-input" rows="3" placeholder="Message..."></textarea>
+    <button type="button" id="btn-input">Send</button>
+  </article>
+</section>
